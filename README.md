@@ -1,4 +1,4 @@
-
+[![Build Status](https://sampledemoencore.visualstudio.com/Sample%20encore/_apis/build/status/baronpankaj.pipelines-java?branchName=master)](https://sampledemoencore.visualstudio.com/Sample%20encore/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
